@@ -20,9 +20,5 @@
             "name": "Mehdi Latrous"
         }
     ],
-    "minimum-stability": "stable",
-    "repositories" : [{
-        "type" : "vcs",
-        "url" : "https://github.com/mehdiii/player_service.git"
-    }]
+    "minimum-stability": "stable"
 }
