@@ -1,0 +1,24 @@
+{
+    "name": "mls/player_service",
+    "description": "Extract players informations from Transfertmarkt",
+    "type": "library",
+    "require": {
+        "symfony/browser-kit": "*",
+        "symfony/dom-crawler": "*"
+    },
+    "require-dev": {
+        "symfony/browser-kit": "*",
+        "symfony/dom-crawler": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mls\\PlayerService\\": "library/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehdi Latrous"
+        }
+    ],
+    "minimum-stability": "dev"
+}
